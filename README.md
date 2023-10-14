@@ -1,5 +1,6 @@
 # Registration_Form
-#AIM
+AIM
+
 Introduction
 The assignment focuses on creating “User Registration form” and performing 
 “form validation” on it. The webpage has been majorly styled using CSS, which 
