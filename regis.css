@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+}
+
+#box{
+    /* position: relative;
+    /* left: 15rem; */
+    height: 99.5vh;
+    /* width: 50vw; */
+    text-align: center;
+    /* border: 2px solid red; */
+}
+#sec{
+    background-image: linear-gradient(to bottom left,rgb(2, 2, 82),rgb(10, 9, 9));
+}
+#box h2{
+    position: relative;
+    top: 1rem;
+    color: white;
+    font-weight: 5rem;
+    text-decoration: underline;
+    font-size: 2.5rem;
+}
+#box input{
+    position: relative;
+    top: 1rem;
+    background-color: transparent;
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.5rem 0.8rem 0.5rem 0.8rem;
+    margin-top: 0.4rem;
+    border: 2px solid white;
+    border-radius: 1rem;
+    outline: none;
+}
+#terms{
+    position: relative;
+    top: 4rem; 
+}
+.item2 label{
+    color: white;
+    position: relative;
+    top: 1rem;
+}
+#box #btn{
+    position: relative;
+    top: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 3rem;
+    border: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+#box #btn1{
+    position: relative;
+    top: 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: auto;
+    border-radius: 3rem;
+    border: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
